@@ -75,18 +75,18 @@ It is intended as a **design and reasoning artifact**, not a production-ready fe
 
 ## Repository Structure
 
-``text
-.
+```text
+ai-decision-signal-digest/
 ├── README.md
-├── docs
+├── docs/
 │   ├── problem-framing.md
 │   ├── input-schema.md
 │   ├── decision-classification-logic.md
 │   ├── example-walkthrough.md
 │   └── tradeoffs-and-limitations.md
-└── artifacts
+└── artifacts/
     └── decision-digest-output-template.md
-
+```
 
 
 ---
