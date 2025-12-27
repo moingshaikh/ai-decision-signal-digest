@@ -75,9 +75,7 @@ It is intended as a **design and reasoning artifact**, not a production-ready fe
 
 ## Repository Structure
 
-## Repository Structure
-
-```text
+``text
 .
 ├── README.md
 ├── docs
