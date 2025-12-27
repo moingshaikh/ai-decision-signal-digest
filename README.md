@@ -119,10 +119,10 @@ These exclusions are intentional.
 
 ## Intended Audience
 
-- AI Business Analysts
+- Business Analysts
 - Product Managers
-- AI Product Designers
-- Engineering leaders evaluating AI-assisted workflows
+- Product Designers
+- Engineering leaders
 - Teams working in asynchronous, multi-stakeholder environments
 
 ---
