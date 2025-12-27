@@ -75,7 +75,15 @@ It is intended as a **design and reasoning artifact**, not a production-ready fe
 
 ## Repository Structure
 
-
+├── README.md
+├── docs
+│ ├── problem-framing.md
+│ ├── input-schema.md
+│ ├── decision-classification-logic.md
+│ ├── example-walkthrough.md
+│ └── tradeoffs-and-limitations.md
+└── artifacts
+└── decision-digest-output-template.md
 
 
 ---
