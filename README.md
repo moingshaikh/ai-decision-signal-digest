@@ -126,13 +126,3 @@ These exclusions are intentional.
 - Teams working in asynchronous, multi-stakeholder environments
 
 ---
-
-## Status
-
-This artifact is complete as a reasoning and design exploration.
-
-Any future iteration would require:
-- Versioned schema changes
-- Re-evaluated guardrails
-- Clear justification for expanded AI scope
-
